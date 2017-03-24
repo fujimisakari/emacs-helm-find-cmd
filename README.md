@@ -21,8 +21,8 @@ To use this package, add these lines to your init.el or .emacs file:
 
 ## Basic Usage
 
-`helm-find-cmd-type-file`
+#### `helm-find-cmd-type-file`
 Execute `find . -type f`
 
-`helm-find-cmd-type-directory`
+#### `helm-find-cmd-type-directory`
 Execute `find . -type d`
